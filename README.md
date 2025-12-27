@@ -42,8 +42,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e345ee&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e345ee&layout=compact&theme=vision-friendly-dark&hide_border=false&langs_count=8)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e345ee&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e345ee&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=e345ee&theme=monokai)
 
 ---
 
