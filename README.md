@@ -46,7 +46,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e345ee&theme=monokai)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e345ee&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=e345ee&theme=monokai)
+![](https://gh-readme-stats.vercel.app/api/top-langs/?username=e345ee&layout=compact&theme=monokai&langs_count=12)
 
 ---
 
