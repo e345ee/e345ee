@@ -13,29 +13,28 @@
 
 <h3>About me</h3>
 
-<table>
-  <tr>
-    <td width="68%" valign="top">
-      I am studying <b>System and Applied Software Engineering</b> at
-      <a href="https://en.itmo.ru/" target="_blank">ITMO University</a>.
-      <br><br>
-      I currently work as a DevOps Engineer at <b>Bank Saint Petersburg</b>, where I focus on
-      infrastructure automation, CI/CD, Linux environments, containers, and service deployment.
-      <br><br>
-      I like building things that move from code to a working result: reliable deployments,
-      useful internal tools, and small open-source experiments.
-      <br><br>
-      I am also open to collaborating with students from other universities on open-source projects.
-      <br><br>
-      If you are interested, here is my <a href="https://example.com/cv.pdf">CV</a>.
-    </td>
-    <td width="32%" align="center" valign="top">
-      <img src="media/itmo-slogan-black.png" alt="ITMO slogan" width="230">
-      <br><br>
-      <img src="media/profile-photo.jpeg" alt="Profile photo" width="170">
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="media/itmo-slogan-black.png" alt="ITMO slogan" width="210" align="right">
+  I am studying <b>System and Applied Software Engineering</b> at
+  <a href="https://en.itmo.ru/" target="_blank">ITMO University</a>.
+</p>
+
+<br clear="right">
+
+<p>
+  <img src="media/profile-photo.jpeg" alt="Profile photo" width="120" align="right">
+  I currently work as a DevOps Engineer at <b>Bank Saint Petersburg</b>, where I focus on
+  infrastructure automation, CI/CD, Linux environments, containers, and service deployment.
+</p>
+
+<br clear="right">
+
+I like building things that move from code to a working result: reliable deployments,
+useful internal tools, and small open-source experiments.
+
+I am also open to collaborating with students from other universities on open-source projects.
+
+If you are interested, here is my <a href="https://example.com/cv.pdf">CV</a>.
 
 ---
 
