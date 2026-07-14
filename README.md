@@ -73,8 +73,8 @@
 <h3>GitHub stats</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e345ee&theme=github" alt="GitHub account statistics" height="165">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=e345ee&layout=compact&langs_count=12&hide_border=false&border_color=D0D7DE&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" alt="Most used languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e345ee&theme=github" alt="GitHub account statistics" width="420">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=e345ee&layout=compact&langs_count=12&card_width=420&hide_border=false&border_color=D0D7DE&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" alt="Most used languages" width="420">
 </p>
 
 ---
