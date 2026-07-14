@@ -1,85 +1,99 @@
-<h3 align="center">Hi, I'm Grigoriy Sadovoy </h3>
+<div align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" width="520">
+</div>
+<h2 align="center">Hi, I'm Grigorii Sadovoi</h2>
 
 <p align="center">
-  Currently studying <b>Software Engineering</b> at <a href="https://en.itmo.ru/" target="_blank">ITMO University</a> <br/>
-  Student at the Faculty of Software Engineering and Computer Systems <br/>
-  DevOps Engineer at <b>Bank Saint Petersburg</b> <br/>
+  <a href="https://github.com/e345ee?tab=repositories">
+    <img src="https://img.shields.io/github/stars/e345ee?affiliations=OWNER%2CCOLLABORATOR&style=plastic&logo=github&label=stars&labelColor=2B292D&color=FF2F87" alt="GitHub stars">
+  </a>
+  <img src="https://img.shields.io/github/issues-search?query=author%3Ae345ee%20type%3Apr&style=plastic&logo=github&label=PRs%20opened&labelColor=2B292D&color=FF2F87" alt="Pull requests opened">
+  <img src="https://komarev.com/ghpvc/?username=e345ee&style=plastic&color=FF2F87&label=views" alt="Profile views">
+</p>
 
+<h3>About me</h3>
+
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      I am studying <b>System and Applied Software Engineering</b> at
+      <a href="https://en.itmo.ru/" target="_blank">ITMO University</a>.
+      <br><br>
+      I currently work as a DevOps Engineer at <b>Bank Saint Petersburg</b>, where I focus on
+      infrastructure automation, CI/CD, Linux environments, containers, and service deployment.
+      <br><br>
+      I like building things that move from code to a working result: reliable deployments,
+      useful internal tools, and small open-source experiments.
+      <br><br>
+      I am also open to collaborating with students from other universities on open-source projects.
+      <br><br>
+      If you are interested, here is my <a href="https://example.com/cv.pdf">CV</a>.
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="media/itmo-slogan-black.png" alt="ITMO slogan" width="230">
+      <br><br>
+      <img src="media/profile-photo.jpeg" alt="Profile photo" width="170">
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3>Tools I use</h3>
+
+<p>Currently, I mostly work with these tools and technologies:</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" alt="Python"><br>Python</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="34" alt="Django"><br>Django</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" alt="React"><br>React</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="34" alt="Ansible"><br>Ansible</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" alt="Docker"><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="34" alt="GitLab CI"><br>GitLab CI</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="34" alt="GitHub Actions"><br>Actions</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="34" alt="Kubernetes"><br>Kubernetes</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" alt="PostgreSQL"><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" alt="Linux"><br>Linux</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34" alt="Java"><br>Java</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="34" alt="Spring"><br>Spring</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="34" alt="Nginx"><br>Nginx</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="34" alt="Prometheus"><br>Prometheus</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="34" alt="Grafana"><br>Grafana</td>
+  </tr>
+</table>
+
+---
+
+<h3>GitHub stats</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e345ee&theme=github" alt="GitHub account statistics" width="420">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=e345ee&layout=compact&langs_count=12&card_width=420&hide_border=false&border_color=D0D7DE&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" alt="Most used languages" width="420">
 </p>
 
 ---
 
-### 🧰 Tech Stack
+<h3>Where to find me</h3>
 
-**Backend & Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-E95420?style=for-the-badge&logo=jakartaee&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-323330?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+<p align="center">
+  <a href="https://t.me/e345ee" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:gsad1030@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/e345ee/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-**Frontend & Mobile:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Data, Messaging & Storage:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-
-**DevOps, CI/CD & Observability:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![WildFly](https://img.shields.io/badge/WildFly-50A4D8?style=for-the-badge&logo=wildfly&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Testing & Build:**  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e345ee&theme=monokai)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e345ee&theme=monokai)
-![](https://gh-readme-stats.vercel.app/api/top-langs/?username=e345ee&layout=compact&theme=monokai&langs_count=12)
-
----
-
-### 📬 Contacts
-
-<a href="https://t.me/e345ee" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="https://vk.com/kobievportfievleze" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white"/>
-</a>
-<a href="mailto:gsad1030@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
----
+<p align="center">
+  <a href="https://github.com/e345ee?tab=repositories">
+    <img src="https://img.shields.io/badge/%E2%AD%90-If%20Useful-FF2F87?style=plastic&labelColor=2B292D" alt="If useful">
+  </a>
+</p>
