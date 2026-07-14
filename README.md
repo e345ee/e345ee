@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" width="520">
 </div>
 
 <h2 align="center">Hi, I'm Grigorii Sadovoi</h2>
@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/github/issues-search?query=author%3Ae345ee%20type%3Apr&style=plastic&logo=github&label=PRs%20opened&labelColor=2B292D&color=FF2F87" alt="Pull requests opened">
   <img src="https://komarev.com/ghpvc/?username=e345ee&style=plastic&color=FF2F87&label=views" alt="Profile views">
 </p>
-
----
 
 <h3>About me</h3>
 
@@ -77,10 +75,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e345ee&theme=github" alt="GitHub account statistics" height="165">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=e345ee&layout=compact&langs_count=12&hide_border=false&border_color=D0D7DE&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" alt="Most used languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=e345ee&theme=github&utcOffset=3" alt="Most productive time" height="165">
 </p>
 
 ---
