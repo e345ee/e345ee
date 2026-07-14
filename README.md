@@ -27,6 +27,8 @@
       <br><br>
       I am also open to collaborating with students from other universities on open-source projects.
       <br><br>
+      Outside of software engineering, I have deep hands-on experience with film and analog photography, including darkroom chemistry, classic cameras, and vintage video equipment.
+      <br><br>
       If you are interested, here is my <a href="https://example.com/cv.pdf">CV</a>.
     </td>
     <td width="32%" align="center" valign="top">
@@ -50,15 +52,14 @@
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" alt="React"><br>React</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="34" alt="Ansible"><br>Ansible</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" alt="Docker"><br>Docker</td>
-  </tr>
-  <tr>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="34" alt="GitLab CI"><br>GitLab CI</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="34" alt="GitHub Actions"><br>Actions</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="34" alt="FastAPI"><br>FastAPI</td>
+  </tr>
+  <tr>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="34" alt="Kubernetes"><br>Kubernetes</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" alt="PostgreSQL"><br>PostgreSQL</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" alt="Linux"><br>Linux</td>
-  </tr>
-  <tr>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34" alt="Java"><br>Java</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="34" alt="Spring"><br>Spring</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="34" alt="Nginx"><br>Nginx</td>
